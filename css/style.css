@@ -1,0 +1,68 @@
+.mainContainer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.container {
+    border: 1px solid red;
+    width: 800px;
+    height: 500px;
+    position: relative;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+
+.One {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(114, 227, 227);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 17%;
+    border-radius: 18%;
+    margin-bottom: 20px;
+    
+}
+.Two {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(24, 113, 202);
+    display: flex;
+    justify-content: center;
+    border-radius: 18%;
+    margin-bottom: 20px;
+
+
+   
+}
+.Three {
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    border-radius: 18%;
+    margin-bottom: 20px;
+
+
+ 
+}
+.Four {
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    border-radius: 18%;
+    margin-bottom: 20px;
+
+
+  
+}
+
